@@ -42,6 +42,6 @@ const exampleIsoTimeString = "2024-02-19T16:43:36.360Z"
 
     // incase you dont believe
     console.log("Date String:", getDateString(exampleIsoTimeString))
-    console.log("Date String:", getTimeString(exampleIsoTimeString))
+    console.log("Time String:", getTimeString(exampleIsoTimeString))
 
     // Type node IsoStringDateTime.js to run this code inside your VS code Terminal
